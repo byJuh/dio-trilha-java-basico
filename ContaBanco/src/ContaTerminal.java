@@ -58,18 +58,7 @@ public class ContaTerminal {
             System.out.println(mensagemFinal);
 
         } catch (Exception e) {
-
+            System.out.println("Ocorreu um erro inesperado. Tente novamente.");
         }
-        
-
-        
-
-        
-
-        
-
-        
-
-        
     }
 }
